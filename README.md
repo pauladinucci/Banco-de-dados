@@ -1,6 +1,6 @@
 # <p align="center" style="bold"> Modelagem de banco de dados <p>
 <br>
-<p align="center">Este é um projeto do módulo 4 da iniciativa Programadores Cariocas, que tem como objetivo a modelagem de um banco de dados, com dois registros para cada entidade. 
+<p align="center">Este é um projeto do módulo 4 da iniciativa Programadores Cariocas, que tem como objetivo a modelagem de um banco de dados, com ao menos dois registros para cada entidade. 
 
 <p align="center">
 <img width="650" height="470" src="src/assets/to_readme/Banco de dados Resilia.png">
