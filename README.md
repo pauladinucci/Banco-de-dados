@@ -9,10 +9,10 @@
 Junto a este exercício, 3 perguntas são propostas sobre o banco de dados sendo estas e suas respectivas respostas: </p>
 
 - Existem outras entidades além destas 3?
-<p>Sim, pode se acrescentar entidades como professores, locais ou formatos do curso, etc.</p>
+<p>Sim, pode se acrescentar entidades como professores, locais ou formatos do curso, matrícula, etc.</p>
 
 - Quais são os principais campos e tipos?
-
+<p>Entidades, atributos e relacionamentos</p>
 
 - Como estas entidades estão relacionadas?
 
